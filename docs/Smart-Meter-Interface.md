@@ -16,7 +16,7 @@ To use it you must [compile your build](Compile-your-build). Add the following t
 #undef USE_RULES
 #endif
 // define max number of decoder entries (defaults to 20 if not defined)
-#define SML_MAX_VARS N
+#define SML_MAX_VARS_N
 ```
 ----
 
